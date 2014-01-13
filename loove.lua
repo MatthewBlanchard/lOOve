@@ -1,5 +1,3 @@
-require "object"
-
 function love.run()
 
     assert(love.s, "Please call love.state with a gamestate object.")
